@@ -49,7 +49,7 @@
 
 			_classCallCheck(this, Hashids);
 
-			var minAlphabetLength = 16;
+			var minAlphabetLength = 15;
 			var sepDiv = 3.5;
 			var guardDiv = 12;
 
